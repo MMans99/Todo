@@ -2,7 +2,7 @@
 A Todo list derived from data-flair.training, adding marking as Uncomplete feature and Dockerizing it
 
 # Demo
-![](https://github.com/MMans99/Todo/demo.gif)
+![](demo.gif)
 
 # Todo List Features
 <code>+</code> Add task
