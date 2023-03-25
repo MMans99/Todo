@@ -112,6 +112,7 @@ Running it by:
 # Credits
 
 - `data-flair.training` for releasing this todo list application as an open source.
+- `towardsdatascience` for having a tutorial article explaining how to run GUI applications in docker.
 
 
 
