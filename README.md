@@ -43,7 +43,7 @@ python todo.py
 ```
 
 ### Dockerizing the Application:
-Since Docker containers does't allow GUI, there are some workarounds, and this just works for Linux (tested on Ubuntu 22.04.2 LTS)
+Since Docker containers don't allow GUI because that's how computers work apparently and there is no universal display for all operating systems, however there are some workarounds, and this just works for Linux (tested on Ubuntu 22.04.2 LTS)
 
 - Here's what inside our `DockerFile`:
 ```
