@@ -109,6 +109,9 @@ Running it by:
 - v 1.0
   - The first version of the program
 
+# Credits
+
+- `data-flair.training` for releasing this todo list application as an open source.
 
 
 
