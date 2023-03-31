@@ -1,5 +1,5 @@
 # To-do List Project with Marking as Complete & Uncomplete
-A Todo list derived from data-flair.training, adding marking as Uncomplete feature and Dockerizing it
+A Todo list derived from data-flair.training, adding marking as uncomplete feature and Dockerizing it
 
 # Demo
 ![](demo.gif)
