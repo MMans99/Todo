@@ -18,7 +18,7 @@ A Todo list derived from data-flair.training, adding marking as Uncomplete featu
  
 - Uses Tkinter Library since it is a GUI application
 - Runs only on python3+ since python2 doesn't support our checkmark which could be changed incase python2 was needed.
-- Added a new function and button (Uncomplete function)
+- Added a new function and button (Mark Uncomplete function)
   - If statement to check whether it already has the checkmark or not to display a warning.
 
 
